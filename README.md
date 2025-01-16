@@ -19,7 +19,6 @@
 
 # Roblox Five Nights TD Script
 
-![Roblox Logo](https://upload.wikimedia.org/wikipedia/commons/6/6d/Roblox_Logo_2022.png)
 
 ## 🎮 Introduction
 Welcome to the **Roblox Five Nights TD Script** repository! This project provides a custom script designed specifically for the **Five Nights TD** game mode on Roblox. Whether you're a developer, gamer, or scripter looking to enhance gameplay or improve your Roblox scripting skills, this repository is a great resource.  
